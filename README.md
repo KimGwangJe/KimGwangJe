@@ -11,7 +11,6 @@
 <p align="center">
 <Strong>📩 Email 📩</Strong><br>gwangjeg14@gmail.com</br>
 </p>
-
 </br>
 
 <div align="center">
